@@ -1,0 +1,35 @@
+1. Functions in Python
+
+    1. Write a function called calculate_area that calculates the area of a rectangle. The function should take two parameters: width and height. Return the area and print it.
+
+    2.Build a simple calculator function that performs addition, subtraction, multiplication, and division. The function should take three parameters: two numbers and the operation (as a string). Return the result.
+
+2. Modules
+
+    1. Write a Python script that imports the math module and demonstrates at least three of its functions (e.g., sqrt, factorial, and pi).
+    
+    2.Create your own module called my_module.py that contains a function to calculate the square of a number. Import this module in another script and use the function.
+
+3. Error (Exception) Handling
+    1. Write a script that demonstrates how to handle a division by zero error using try and except. Print a user-friendly message when the error occurs.
+
+    2. Extend the previous script to include an else block that executes if no error occurs.
+
+    3. Implement a function that raises a custom error if the input is negative. Use the raise keyword to demonstrate how to create and handle this custom error.
+
+    4. Write a script that uses the finally keyword to ensure that a specific message is printed whether an error occurs or not.
+
+4. Working with File Objects
+    1. Use the open() built-in function to create a new text file called my_file.txt and write some text into it. Ensure to close the file afterward.
+
+    2. Write a script that opens a file in read mode, reads its content, and prints it to the console.
+
+    3. Create a program that appends user input to an existing file. Use the .write() method and ensure to close the file.
+
+5. Python External Modules
+
+    1. Write a step-by-step guide on how to install an external module from the PyPI repository using pip. Provide an example with a specific module (e.g., requests).
+
+    2. After installing the requests module, write a Python script that imports it and makes a simple GET request to a public API. Print the response status code and the response data.
+
+    3. Create a script that utilizes an external module of your choice to perform a specific task (e.g., web scraping with BeautifulSoup, data visualization with matplotlib).

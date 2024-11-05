@@ -1,0 +1,93 @@
+1. Numbers Data Types:
+
+    Integer (int): Write a script that declares an integer variable, performs arithmetic operations (addition, subtraction, multiplication, and division), and prints the result.
+    Float (float): Declare a floating-point variable, perform arithmetic operations (including division), and round the result to 2 decimal places.
+    Complex (complex): Create two complex numbers, add them together, and print the real and imaginary parts of the result.
+
+2. Text Data:
+
+    String (str): Write a script that takes a string input from the user and performs the following:
+    Concatenate it with another string.
+    Access a specific character using indexing.
+    Slice a portion of the string.
+    Convert the string to uppercase and lowercase.
+
+3. Boolean Data:
+
+    Boolean: Create a script that demonstrates the use of boolean values (True and False) in conditions. 
+    Write if-else statements that check for conditions such as equality, greater than, 
+    or less than between numbers or strings, and print appropriate messages based on the result.
+
+4. Sequential or Grouped/Collective Data:
+
+    List: Declare a list with multiple elements (e.g., integers or strings). Perform operations such as:
+    Adding an item to the list using .append().
+    Removing an item using .remove().
+    Accessing an item by index.
+    Slicing a portion of the list.
+
+
+5. Tuple: Declare a tuple and demonstrate:
+    Accessing an element using indexing.
+    Slicing a portion of the tuple.
+    Showing the immutability of tuples by attempting to modify an element.
+
+6. Set: Create a set and perform operations such as:
+    Adding elements to the set.
+    Removing elements.
+    Demonstrating how a set handles duplicates.
+    Performing set operations such as union, intersection, and difference.
+
+
+7. Mapping Data:
+
+    Dictionary (dict): Create a dictionary with key-value pairs. Write a script that:
+    Accesses values by their keys.
+    Adds a new key-value pair.
+    Removes a key-value pair.
+    Loops through the dictionary to print both keys and values.
+
+8. None Data:
+
+    None: Write a script that demonstrates the use of the None value. Create a variable, 
+    assign None to it, and later update the variable with a meaningful value. 
+    Print both the None value and the updated value to demonstrate the change.
+
+
+9. String Indexing:
+
+    Write a script that takes a string as input from the user.
+    Demonstrate how to access individual characters of the string using positive and negative indexing.
+    Print the first and last characters of the string using indexing.
+
+8. String Slicing:
+
+    Using the string input from the previous step, demonstrate how to slice the string.
+    Extract a substring from the beginning, middle, and end of the string.
+    Demonstrate slicing with step values (e.g., every second character).
+
+9. Methods on Strings:
+
+    Write a script to demonstrate the usage of the following string methods:
+    .upper(): Convert the string to uppercase.
+    .lower(): Convert the string to lowercase.
+    .replace(): Replace a part of the string with another substring.
+    .strip(): Remove any leading/trailing spaces from the string.
+    .split(): Split the string into a list based on a delimiter (default is space).
+    .join(): Join a list of strings into a single string using a delimiter.
+
+
+10. String Manipulations:
+
+    Write a script to demonstrate various string manipulations:
+    Concatenate two strings.
+    Repeat a string multiple times.
+    Reverse a string using slicing.
+    Check if a substring exists in a string using the in keyword.
+
+
+11. String Formatting:
+
+    Create a Python script to demonstrate string formatting techniques:
+    format() method: Use placeholders ({}) to insert values into a string.
+    F-string: Use f-strings (formatted string literals) to embed expressions inside string literals using curly braces {}.
